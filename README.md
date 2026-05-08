@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Randhir Kumar</h1>
+<h3 align="center">Full Stack + AI Developer from India 🇮🇳</h3>
 
-<!--
-**RK-0396/rk-0396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Java+Developer;Building+Cool+Projects+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Working on AI + Full Stack Projects
+- 🌱 Learning LLMs, RAG & Generative AI
+- 💬 Ask me about React, Next.js, Java, Spring Boot
+- ⚡ Fun fact: I love building futuristic products
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,java,spring,mongodb,mysql,postgres,docker,aws,git,github,vscode,python,tensorflow" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```txt
+LLMs
+RAG Architecture
+Vector Databases
+AI Agents
+System Design
